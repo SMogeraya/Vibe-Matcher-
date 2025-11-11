@@ -38,3 +38,4 @@ This project demonstrates how semantic embeddings can enable creative, personali
 ```bash
 git clone https://github.com/yourusername/vibe-matcher.git
 cd vibe-matcher
+streamlit run assignmet.py 
